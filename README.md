@@ -16,7 +16,7 @@
 
 #### Student Member – Society of Audiology in Bangladesh (SOAIB)
 
-SOAIB is the Bangladesh Government-approved national professional association for audiology professionals. The official website maintains a directory containing information about its registered members. 0
+SOAIB is the Bangladesh Government-approved national professional association for audiology professionals. The official website maintains a directory containing information about its registered members.
 
 **Website:** https://soaib.org/student-members?name=Adib+mahmud&university&course
 
