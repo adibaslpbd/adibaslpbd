@@ -43,7 +43,7 @@ SOAIB is the Bangladesh Government-approved national professional association fo
 ---
 ## Additional certificates
 
--Seminar on Hearing and Balance 2024 (Participant)
+- **Seminar on Hearing and Balance 2024** (Participant)
 
 Actively participated in the 3-day International Seminar on Hearing and Balance 2024, held from 5–7 March 2024 at the Proyash Institute of Special Education and Research (PISER) campus in Dhaka, Bangladesh. The seminar brought together national and international experts and was one of the largest international events in Bangladesh focused on hearing and balance.
 
@@ -53,10 +53,10 @@ Certificate link: https://adibaslpbd.github.io/Certificates/3.png
 
 certificate link: https://adibaslpbd.github.io/Certificates/4.jpg
 
-- 1ST POSITRON SOCIETY OF SCIENCE CLOUD SCIENCE CARNIVAL (Participant)
+- **1ST POSITRON SOCIETY OF SCIENCE CLOUD SCIENCE CARNIVAL** (Participant)
 
 certificate link: https://adibaslpbd.github.io/Certificates/1.png
 
--LITERARYAHOLIC:BREAKING THE LIMITATIONS (participant)
+- **LITERARYAHOLIC:BREAKING THE LIMITATIONS** (participant)
 
 certificate link: https://adibaslpbd.github.io/Certificates/2.png
